@@ -6,3 +6,4 @@ Currently Working
 
 Up next
 /roles - let user choose their basic roles
+/greeter - greet new members?
